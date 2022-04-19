@@ -1,9 +1,14 @@
-Team Project
 printf
 Description
-The printf function sends formatted output to stdout. A custom _printf() for learning purposes was developed by cohort #0121 students - Tinsaye Simeneh,- David Musau.
+The printf function sends formatted output to stdout. A custom _printf() for learning purposes was developed by ALX students - Robert Karuga,- Hannah Muriuki.
 
 _printf() function format string is a character string, beginning and ending in its initial shift state, if any. These arguments are placed using the percentage '%' operator
+Resources
+Secrets of printfby Don colton https://www.cypress.com/file/54761/download
+
+Authorized functions and macros
+write (man 2 write) malloc (man 3 malloc) free (man 3 free) va_start (man 3 va_start) va_end (man 3 va_end) va_copy (man 3 va_copy) va_arg (man 3 va_arg)
+
 Tasks required for this project
 I am not going anywhere. You can print that wherever you want to. I'm here and I am a Spur for life1. I am not going anywhere. You can print that wherever you want to. I'm here and I am a Spur for life.
 Write a function that produces output according to a format. Handle the following conversion specifiers:
@@ -73,6 +78,7 @@ Handle the following custom conversion specifier:
 R: prints the rot13'ed string
 *
 All the above options work well together.
+
 Authors ©
-.Robert Karuga
-.Hannah Muriuki
+-Robert Karuga
+-Hannah Muriuki
